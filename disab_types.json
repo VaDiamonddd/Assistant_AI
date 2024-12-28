@@ -1,0 +1,806 @@
+{
+  "q_and_a": [
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "1. What is the definition of disability according to the World Health Organization (WHO)?",
+      "answer": "The WHO defines disability as an umbrella term for impairments, activity limitations, and participation restrictions, reflecting the interaction between a person’s body and society’s barriers.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "2. How does the Australian National University (ANU) describe different types of disabilities?",
+      "answer": "ANU categorizes disabilities into various groups, including physical, intellectual, sensory, neurological, psychiatric, and learning disabilities, to better address individualized needs and support.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "3. What are physical disabilities?",
+      "answer": "Physical disabilities are conditions that affect a person’s mobility, dexterity, or stamina, potentially resulting from congenital issues, injuries, or chronic conditions such as arthritis.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities",
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "4. Can mental health conditions be considered disabilities?",
+      "answer": "Yes, certain mental health conditions that substantially impact day-to-day activities can be recognized as disabilities under various legal frameworks, such as the Equality Act 2010 in the UK.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "5. What are intellectual disabilities?",
+      "answer": "Intellectual disabilities involve significant limitations in intellectual functioning and adaptive behavior, affecting social and practical skills, often beginning before adulthood.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "6. What are sensory disabilities?",
+      "answer": "Sensory disabilities affect one or more senses, such as vision or hearing, and can range from mild hearing loss to complete blindness or deafness.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "7. What is a visual impairment?",
+      "answer": "A visual impairment is any condition that affects a person’s vision, ranging from partial sight to complete blindness, and may require accommodations like screen readers or Braille.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities",
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "8. What is a hearing impairment?",
+      "answer": "A hearing impairment refers to partial or total inability to hear, which may require the use of hearing aids, cochlear implants, or sign language for communication.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "9. How is deafness classified as a disability?",
+      "answer": "Deafness is classified as a sensory disability where an individual has little or no hearing, often requiring sign language, lip reading, or assistive devices for effective communication.",
+      "sources": [
+        "https://www.ada.gov"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "10. What are learning disabilities?",
+      "answer": "Learning disabilities are neurological conditions that interfere with a person’s ability to store, process, or produce information, often affecting skills like reading, writing, or math.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "11. Can ADHD be considered a disability?",
+      "answer": "Attention Deficit Hyperactivity Disorder (ADHD) can be classified as a disability if it substantially limits one or more major life activities, such as learning or social interactions.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "12. What are neurological disabilities?",
+      "answer": "Neurological disabilities are related to the nervous system, including conditions like multiple sclerosis, cerebral palsy, and epilepsy, which can affect movement, communication, and other bodily functions.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "13. What are developmental disabilities?",
+      "answer": "Developmental disabilities are conditions such as autism or Down syndrome that emerge during the developmental period, impacting areas like communication, mobility, and self-care.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "14. How does the Americans with Disabilities Act (ADA) define disability?",
+      "answer": "Under the ADA, a person has a disability if they have a physical or mental impairment that substantially limits one or more major life activities, have a record of such an impairment, or are regarded as having one.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "15. How does the UK Disability Discrimination Act (DDA) of 1995 define disability?",
+      "answer": "The DDA defines a disabled person as someone with a physical or mental impairment that has a substantial and long-term adverse effect on the ability to carry out normal day-to-day activities.",
+      "sources": [
+        "https://www.legislation.gov.uk/ukpga/1995/50/contents?view=plain"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "16. What is a psychiatric disability?",
+      "answer": "A psychiatric disability involves mental health conditions like depression, schizophrenia, or bipolar disorder, which significantly impact daily functioning, communication, or social interaction.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "17. Are chronic illnesses considered disabilities?",
+      "answer": "Many chronic illnesses, like diabetes or chronic fatigue syndrome, can be considered disabilities if they substantially limit a person’s ability to perform daily tasks.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "18. What are invisible disabilities?",
+      "answer": "Invisible disabilities are impairments that are not immediately apparent, such as certain psychiatric conditions or chronic illnesses, which can still significantly impact daily life.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "19. How do traumatic brain injuries (TBIs) relate to disability?",
+      "answer": "TBIs can result in cognitive, physical, or behavioral impairments that last long-term, making daily tasks challenging, and potentially classifying them as disabilities.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "20. What are episodic disabilities?",
+      "answer": "Episodic disabilities, like multiple sclerosis or lupus, involve periods of active symptoms interspersed with remission, which can make it challenging to predict daily functionality.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "21. What is a mobility impairment?",
+      "answer": "A mobility impairment affects a person’s ability to move freely, often requiring assistive devices like wheelchairs, crutches, or prosthetic limbs to navigate their environment.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "22. What role does environmental and social context play in defining disability?",
+      "answer": "Disability is influenced by barriers in the environment and social attitudes, meaning an individual’s impairment becomes disabling when society fails to accommodate their needs.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "23. Are learning difficulties and learning disabilities the same?",
+      "answer": "They are often used interchangeably in casual speech, but some regions differentiate them. For instance, in the UK, 'learning difficulties' can refer to broader educational challenges, while 'learning disabilities' imply more significant intellectual impairments.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "24. What is the difference between a disability and an impairment?",
+      "answer": "An impairment is a problem with a body function or structure, while a disability refers to the broader impact of that impairment on one’s ability to function in society.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "25. Can obesity be considered a disability?",
+      "answer": "In some jurisdictions, obesity may be considered a disability if it substantially restricts normal day-to-day activities, though legal definitions vary by region and context.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "26. How does the Equality Act 2010 in the UK define disability?",
+      "answer": "The Equality Act 2010 states that a person is disabled if they have a physical or mental impairment that has a substantial and long-term adverse effect on their ability to carry out normal day-to-day activities.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "27. What are the common accommodations for individuals with hearing impairments?",
+      "answer": "Accommodations may include sign language interpreters, assistive listening devices, real-time captioning, and the use of visual aids for effective communication.",
+      "sources": [
+        "https://www.ada.gov/resources/employment-seeking-guide/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "28. How can workplaces accommodate employees with visual impairments?",
+      "answer": "By providing screen readers, Braille displays, enlarged text, high-contrast materials, and ensuring physical spaces are safe and navigable without sight.",
+      "sources": [
+        "https://www.ada.gov/resources/employment-seeking-guide/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "29. What types of mental health conditions might qualify as disabilities?",
+      "answer": "Conditions such as depression, anxiety disorders, bipolar disorder, schizophrenia, or post-traumatic stress disorder can qualify if they substantially limit major life activities.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "30. What is the social model of disability?",
+      "answer": "The social model of disability asserts that people are disabled by societal barriers and exclusion, rather than solely by their impairments.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "31. What is cerebral palsy?",
+      "answer": "Cerebral palsy is a group of disorders affecting movement and muscle tone, caused by damage to the developing brain, often before or during birth.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "32. How does multiple sclerosis (MS) qualify as a disability?",
+      "answer": "MS is a chronic condition affecting the central nervous system, causing symptoms like fatigue, mobility challenges, and cognitive changes, which can significantly limit daily activities.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "33. What are the key features of autism spectrum disorders (ASD)?",
+      "answer": "ASD is characterized by challenges in social interaction, communication, and repetitive behaviors, with symptoms varying greatly among individuals.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "34. What role does assistive technology play for people with disabilities?",
+      "answer": "Assistive technology includes devices or software like wheelchairs, hearing aids, screen readers, and speech-to-text tools, empowering individuals to enhance their independence and participation.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "35. What are progressive disabilities?",
+      "answer": "Progressive disabilities worsen over time, such as Parkinson’s disease or amyotrophic lateral sclerosis (ALS), requiring evolving care and support as the condition advances.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "36. What is an episodic mobility impairment?",
+      "answer": "An episodic mobility impairment refers to conditions where individuals experience fluctuating or intermittent difficulties with walking, climbing stairs, or standing for extended periods.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "37. How do speech and language impairments fit under disabilities?",
+      "answer": "They can be considered disabilities when they significantly limit communication. Examples include stuttering, aphasia, or articulation disorders that hinder speaking ability.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "38. How do service animals assist people with disabilities?",
+      "answer": "Service animals, such as guide dogs, help individuals navigate environments, perform tasks, or alert them to important sounds, thereby increasing independence.",
+      "sources": [
+        "https://www.ada.gov"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "39. What is the medical model of disability?",
+      "answer": "The medical model sees disability as a problem inherent in the individual, focusing on rehabilitation or cure, rather than emphasizing societal adaptations.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "40. Why is person-first language important when discussing disabilities?",
+      "answer": "Person-first language (e.g., 'person with a disability') respects individuals by placing their humanity before their disability, reducing stigma and promoting dignity.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "41. What are psychosocial disabilities?",
+      "answer": "Psychosocial disabilities refer to impairments linked with mental health or cognitive-behavioral conditions that significantly impact social and interpersonal functioning.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "42. What is the significance of the term 'neurodiversity'?",
+      "answer": "Neurodiversity acknowledges that variations in brain function and behavior, like autism or dyslexia, are normal differences deserving respect and accommodation.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "43. What are some common physical disabilities caused by musculoskeletal disorders?",
+      "answer": "Conditions like rheumatoid arthritis, muscular dystrophy, or chronic back pain are examples of musculoskeletal disorders that can lead to physical disabilities.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "44. How is a disability diagnosed or assessed?",
+      "answer": "Medical evaluations, psychological assessments, and functional capacity tests help determine the nature and severity of impairments, often alongside legal or educational criteria.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "45. How do cultural perceptions affect the recognition of disabilities?",
+      "answer": "Cultural norms and stigma can influence how disabilities are perceived, diagnosed, or addressed, affecting access to resources and societal acceptance.",
+      "sources": [
+        "https://www.who.int/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "46. What is the role of universal design in accommodating different types of disabilities?",
+      "answer": "Universal design aims to create products, environments, and services usable by all people to the greatest extent possible without requiring adaptation.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "47. Are temporary impairments considered disabilities?",
+      "answer": "Temporary impairments, like a broken leg, typically do not meet the legal threshold of a long-term disability, although short-term accommodations may be provided.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "48. How might mild or moderate hearing loss be accommodated?",
+      "answer": "Accommodations can include amplified headsets, adjusted audio settings, real-time captioning, and ensuring clear, uncluttered communication environments.",
+      "sources": [
+        "https://www.ada.gov/resources/business-brief-hotels/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "49. What is the purpose of the National Council on Disability (NCD)?",
+      "answer": "NCD advises the U.S. government on policies and programs that affect people with disabilities to enhance their quality of life and ensure equal opportunities.",
+      "sources": [
+        "https://www.ncd.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "50. Can individuals with intellectual disabilities learn to live independently?",
+      "answer": "With appropriate support, training, and accommodations, many individuals with intellectual disabilities can develop skills to live relatively independently.",
+      "sources": [
+        "https://thearc.org/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "51. What is the function of Disability Rights Advocates (DRA)?",
+      "answer": "DRA works to protect and advance the civil rights of people with disabilities through litigation, education, and advocacy, ensuring equal opportunities and access.",
+      "sources": [
+        "https://dralegal.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "52. What are some examples of digital accessibility considerations for people with disabilities?",
+      "answer": "These include providing text alternatives for images, ensuring keyboard-only navigation, using proper heading structures, and offering captions for multimedia content.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "53. How can someone with a learning disability be accommodated during a test?",
+      "answer": "They might receive extra time, alternative test formats, assistive technology, or a private testing area to reduce distractions and allow for better focus.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "54. What is Down syndrome?",
+      "answer": "Down syndrome is a genetic disorder caused by an extra copy of chromosome 21, typically resulting in developmental and intellectual delays.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "55. How do caregivers assist people with severe physical disabilities?",
+      "answer": "Caregivers provide support with daily tasks like bathing, dressing, meal preparation, mobility, and medical needs, enhancing independence and well-being.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "56. What is the difference between deaf and hard of hearing?",
+      "answer": "‘Deaf’ typically refers to individuals with profound hearing loss, whereas ‘hard of hearing’ refers to those with partial hearing loss who may still use spoken language.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "57. What types of disabilities can result from spinal cord injuries?",
+      "answer": "Spinal cord injuries can cause partial or complete paralysis, affecting mobility, sensation, and other bodily functions below the level of injury.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "58. How does the environment impact people with chronic pain?",
+      "answer": "Accessible environments that minimize physical strain and offer supportive resources can significantly reduce barriers for individuals experiencing chronic pain.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "59. What is low vision?",
+      "answer": "Low vision refers to a visual impairment that cannot be corrected with regular glasses, contact lenses, or surgery, significantly limiting visual functioning.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "60. How are disabilities measured or classified globally?",
+      "answer": "Globally, frameworks like the International Classification of Functioning, Disability and Health (ICF) from WHO provide standardized definitions and assessments of disability.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "61. Why is it important to distinguish between congenital and acquired disabilities?",
+      "answer": "Congenital disabilities are present from birth, while acquired disabilities develop later. Each may require different support strategies, interventions, and adaptations.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "62. What are some ways society can reduce disabling barriers?",
+      "answer": "Society can implement inclusive design, adjust policies, educate the public about disability rights, and provide necessary supports to remove physical and attitudinal barriers.",
+      "sources": [
+        "https://www.who.int/health-topics/disability#tab=tab_1"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "63. How do learning disabilities commonly manifest?",
+      "answer": "They can manifest through difficulty reading (dyslexia), writing (dysgraphia), or with math (dyscalculia), often presenting in childhood and continuing into adulthood.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "64. How can technology support individuals with intellectual disabilities?",
+      "answer": "Apps and devices focusing on communication, scheduling, and daily reminders can foster independence and skill-building for individuals with intellectual disabilities.",
+      "sources": [
+        "https://dralegal.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "65. Why might mental health conditions be under-reported as disabilities?",
+      "answer": "Stigma, lack of awareness, and difficulties accessing mental health services contribute to under-reporting and under-diagnosis of mental health conditions as disabilities.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "66. What is the role of Occupational Therapy in supporting people with physical disabilities?",
+      "answer": "Occupational Therapy helps people develop, recover, or maintain meaningful activities, providing strategies and tools to navigate daily tasks more effectively.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "67. What are 'reasonable adjustments' or 'reasonable accommodations' in the context of disability?",
+      "answer": "Reasonable accommodations are modifications or adjustments that enable individuals with disabilities to perform essential job functions or access services on an equal basis.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "68. How does the built environment influence people with mobility impairments?",
+      "answer": "Barriers like stairs, narrow doorways, or inaccessible transportation can restrict participation, while ramps, elevators, and wide corridors can facilitate independence.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "69. What are some common accommodations for students with ADHD?",
+      "answer": "They can receive extra time on tests, scheduled breaks, preferential seating, and organizational support to help manage attention and focus challenges.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "70. How can communication barriers be addressed for individuals with speech impairments?",
+      "answer": "Using alternative and augmentative communication (AAC) devices, ensuring patience from listeners, and offering written communication options can help overcome speech barriers.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "71. How does the Americans with Disabilities Act address hotel accessibility?",
+      "answer": "The ADA requires hotels to provide accessible rooms, entrances, and amenities, with features like roll-in showers and visual alarms to ensure equal access for guests with disabilities.",
+      "sources": [
+        "https://www.ada.gov/resources/business-brief-hotels/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "72. What are some ways educators can support students with learning disabilities?",
+      "answer": "Educators can provide individualized instruction, assistive technology, extra time for tasks, and a supportive learning environment tailored to each student’s needs.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "73. What is tactile signing?",
+      "answer": "Tactile signing is a form of sign language communication used by individuals who are deafblind, where hand movements are felt through touch.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "74. How can workplaces promote inclusion for people with invisible disabilities?",
+      "answer": "Workplaces can offer flexible schedules, quiet workspaces, confidential support systems, and training on disability awareness to foster a supportive environment.",
+      "sources": [
+        "https://dralegal.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "75. What are psychological or psychiatric service dogs trained to do?",
+      "answer": "They can detect signs of anxiety or panic attacks, remind individuals to take medication, or provide deep pressure therapy to alleviate stress.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "76. Are allergies or sensitivities ever considered disabilities?",
+      "answer": "In some cases, severe allergies or chemical sensitivities can be classified as disabilities if they substantially limit major life activities.",
+      "sources": [
+        "https://www.gov.uk/definition-of-disability-under-equality-act-2010"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "77. What is low-incidence disability?",
+      "answer": "A low-incidence disability is a disability that occurs relatively infrequently, such as traumatic brain injury or deafblindness, often requiring specialized interventions.",
+      "sources": [
+        "https://thearc.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "78. How can universal design for learning (UDL) help students with different types of disabilities?",
+      "answer": "UDL provides flexible teaching methods, materials, and assessments designed to accommodate diverse learning styles, benefiting all students, including those with disabilities.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "79. What is an anxiety disorder in the context of disability?",
+      "answer": "An anxiety disorder may qualify as a disability if its symptoms, like persistent fear or avoidance behaviors, significantly limit major life activities or function.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "80. How can individuals with intellectual disabilities be supported during employment?",
+      "answer": "Support can include job coaching, task modifications, clearly structured routines, and positive reinforcement to enable skill development and independence.",
+      "sources": [
+        "https://www.aapd.com/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "81. What role does a speech-language pathologist play for someone with a communication disability?",
+      "answer": "They assess and treat speech, language, and communication difficulties, developing strategies and therapies to improve communication effectiveness.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "82. What are some methods of communication for people who are deafblind?",
+      "answer": "Methods can include tactile sign language, Braille, and computer-assisted devices that provide auditory or tactile feedback for communication.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "83. What is arthrogryposis, and how does it affect a person?",
+      "answer": "Arthrogryposis is a condition characterized by joint contractures, limiting movement and flexibility, often requiring physical therapy and assistive technology for daily tasks.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "84. How do sensory-processing disorders differ from sensory disabilities?",
+      "answer": "Sensory-processing disorders involve difficulties interpreting sensory information, whereas sensory disabilities involve actual deficits in sensory function like hearing or vision loss.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "85. What is muscular dystrophy?",
+      "answer": "Muscular dystrophy is a group of genetic disorders causing progressive muscle weakness and loss of muscle mass, potentially requiring mobility aids and supportive therapies.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "86. How might epilepsy qualify as a disability?",
+      "answer": "Epilepsy involves recurrent seizures that can disrupt daily activities, employment, and social functioning, potentially classifying it as a disability if it significantly limits life activities.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "87. How can assistive technology help people with vision impairments access digital content?",
+      "answer": "Screen readers, Braille displays, and voice recognition software convert digital text to speech or tactile output, making online content accessible.",
+      "sources": [
+        "https://www.w3.org/TR/WCAG22/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "88. What is the role of Disability Rights California (DRC)?",
+      "answer": "DRC advocates, educates, and litigates to protect the rights of Californians with disabilities, ensuring they receive equal opportunities and access to services.",
+      "sources": [
+        "https://www.disabilityrightsca.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "89. What is braille literacy, and why is it important?",
+      "answer": "Braille literacy refers to the ability to read and write using Braille, a tactile writing system, crucial for educational and vocational opportunities for people with visual impairments.",
+      "sources": [
+        "https://services.anu.edu.au/human-resources/health-safety/different-types-of-disabilities"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "90. How do neurological disabilities impact coordination?",
+      "answer": "They can impair fine motor skills or balance, affecting tasks like writing, buttoning clothes, or walking without support.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "91. Can a mild intellectual disability still significantly impact a person’s life?",
+      "answer": "Yes. Even mild intellectual disabilities can affect learning speed, daily living skills, and social interactions, requiring tailored support for success.",
+      "sources": [
+        "https://thearc.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "92. What strategies help people with dyslexia process written information?",
+      "answer": "Multi-sensory techniques, text-to-speech software, and structured literacy programs can assist individuals with dyslexia in decoding and comprehending text.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "93. How do prosthetic limbs relate to physical disabilities?",
+      "answer": "Prosthetic limbs replace missing body parts, helping restore mobility and functionality for individuals with amputations or limb differences.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/conditions/physical-activity.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "94. Why is sign language not universal?",
+      "answer": "Like spoken languages, sign languages develop organically in communities and vary by region and culture, resulting in many distinct sign languages worldwide.",
+      "sources": [
+        "https://www.ada.gov/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "95. What are common accommodations for people with autism?",
+      "answer": "Accommodations may include structured routines, visual supports, sensory-friendly spaces, and clear, direct communication to reduce anxiety and confusion.",
+      "sources": [
+        "https://www.ndrn.org/?utm_source=chatgpt.com"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "96. What is the goal of inclusive education for students with disabilities?",
+      "answer": "Inclusive education aims to integrate students of all abilities into mainstream classrooms with appropriate support, ensuring equal learning opportunities and social inclusion.",
+      "sources": [
+        "https://www.cdc.gov/disability-and-health/health-well-being/index.html"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "97. How can mental health crises impact workplace performance?",
+      "answer": "Mental health crises can lead to difficulty concentrating, absenteeism, and poor productivity, potentially requiring flexible policies and mental health support.",
+      "sources": [
+        "https://www.ada.gov/resources/employment-seeking-guide/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "98. What support is available for people with disabilities seeking employment?",
+      "answer": "Services include job placement agencies, vocational rehabilitation, workplace accommodations, and mentorship programs under laws like the ADA.",
+      "sources": [
+        "https://www.ada.gov/resources/employment-seeking-guide/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "99. What type of disability might require extended testing time in an academic setting?",
+      "answer": "Students with learning, attention, or cognitive disabilities often receive extra testing time to accommodate for challenges in processing information.",
+      "sources": [
+        "https://www.ada.gov/resources/testing-accommodations/"
+      ]
+    },
+    {
+      "type_of_qa": "Types of disabilities",
+      "question": "100. Why is it beneficial to view disability through a human rights lens?",
+      "answer": "Viewing disability through a human rights lens promotes dignity, equality, and inclusion, emphasizing that people with disabilities are entitled to the same rights and opportunities as everyone else.",
+      "sources": [
+        "https://ncd.gov/"
+      ]
+    }
+  ]
+}
